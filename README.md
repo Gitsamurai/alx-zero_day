@@ -1,2 +1,2 @@
-My first radme
+My first readme
 my first commit on github.com
